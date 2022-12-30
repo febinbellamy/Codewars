@@ -13,6 +13,6 @@ oddOne([2,4,6,8]) // => -1
 */
 
 function oddOne(arr) {
-  const oddNum = arr.filter((num, index) => num % 2 !== 0)[0];
+  const oddNum = arr.filter((num) => num % 2 !== 0)[0];
   return arr.indexOf(oddNum);
 }
