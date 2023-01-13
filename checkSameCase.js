@@ -14,3 +14,13 @@ Examples
 'B' and 'g' returns 0
 '0' and '?' returns -1
 */
+
+function sameCase(a, b) {
+  if (!/[a-zA-Z]/.test(a) || !/[a-zA-Z]/.test(b)) return -1;
+  if (
+    (a.toUpperCase() === a && b.toUpperCase() === b) ||
+    (a.toLowerCase() === a && b.toLowerCase() === b)
+  )
+    return 1;
+  return 0;
+}
