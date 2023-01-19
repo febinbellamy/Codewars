@@ -14,7 +14,6 @@ twoSum([1, 2, 3], 4) // returns [0, 2] or [2, 0]
 
 function twoSum(numbers, target) {
   for (let i = 0; i < numbers.length; i++) {
-    let currentNum = numbers[i];
     let difference = target - numbers[i];
     let differenceValueInArr = numbers.filter(
       (num, index) => index !== i && num === difference
