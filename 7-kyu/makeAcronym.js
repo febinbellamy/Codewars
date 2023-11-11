@@ -11,6 +11,7 @@ Rule of making acronym in this kata:
 
 Eg:
 Code wars -> C, w -> C W -> CW
+
 Note: There will be at least two words in the given string!
 */
 
