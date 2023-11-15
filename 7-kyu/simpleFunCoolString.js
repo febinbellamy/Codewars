@@ -25,9 +25,7 @@ function coolString(s) {
   //coding and coding..
 
   const sArray = s.split("");
-
   const filteredArr = sArray.filter((char) => /[a-zA-Z]/.test(char));
-
   if (filteredArr.length !== s.length) return false;
 
   for (let i = 0; i < sArray.length - 1; i++) {
