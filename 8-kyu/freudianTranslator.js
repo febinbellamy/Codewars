@@ -15,6 +15,6 @@ function toFreud(string) {
 
   return string
     .split(" ")
-    .map((word) => (word = "sex"))
+    .map((word) => "sex")
     .join(" ");
 }
