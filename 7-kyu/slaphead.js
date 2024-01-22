@@ -16,8 +16,6 @@ You should return the original string, but with any stray hairs removed. Keep co
 So for this head: "------/------" you shoud return:
 
 ["-------------", "Unicorn"]
-
-
 */
 
 function bald(x) {
