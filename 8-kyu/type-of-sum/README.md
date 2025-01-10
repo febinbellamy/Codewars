@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba/train/javascript target="_blank">Type of sum</a></h2><h3>8 kyu</h3><p>Return the type of the sum of the two arguments</p>
