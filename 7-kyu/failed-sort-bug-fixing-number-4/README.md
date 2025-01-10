@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/55c7f90ac8025ebee1000062/train/javascript target="_blank">Failed Sort - Bug Fixing #4</a></h2><h3>7 kyu</h3><h1>Failed Sort - Bug Fixing #4</h1>Oh no, Timmy's Sort doesn't seem to be working? Your task is to fix the sortArray function to sort all numbers in ascending order
