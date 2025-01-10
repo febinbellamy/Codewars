@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/55c606e6babfc5b2c500007c/train/javascript target="_blank">Failed Filter - Bug Fixing #3</a></h2><h3>7 kyu</h3><h3 id="failed-filter---bug-fixing-3">Failed Filter - Bug Fixing #3</h3><p>Oh no, Timmy's filter doesn't seem to be working? Your task is to fix the Filter Number function to remove all the numbers from the string.</p>
