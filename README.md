@@ -1,3 +1,2 @@
-This is a repository of my solutions to ~1,000 Codewars problems. https://www.codewars.com/users/febinbellamy
-
-![large](https://github.com/user-attachments/assets/f982be9f-4c06-44a9-a124-96f13133dc64)
+<h1>A repository of my solutions to ~1,000 Codewars problems.</h1>
+<a href="https://www.codewars.com/users/febinbellamy"><img src="https://github.com/user-attachments/assets/fba12087-a6fe-4852-9154-a3a9795f8a68"/></a>
