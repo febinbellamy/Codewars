@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/55d8618adfda93c89600012e/train/python target="_blank">How do I compare numbers?</a></h2><h3>8 kyu</h3><p>What could be easier than comparing integer numbers? However, the given piece of code doesn't recognize some of the special numbers for a reason to be found. Your task is to find the bug and eliminate it.</p>
