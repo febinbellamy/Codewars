@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/57a4d500e298a7952100035d/train/javascript target="_blank">Hex to Decimal</a></h2><h3>8 kyu</h3><p>Complete the function which converts hex number (given as a string) to a decimal number.</p>
