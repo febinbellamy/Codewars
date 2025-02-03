@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/59e9f404fc3c49ab24000112/train/javascript target="_blank">Ch4113ng3</a></h2><h3>7 kyu</h3><p>Make your strings more nerdy: Replace all 'a'/'A' with 4, 'e'/'E' with 3 and 'l' with 1e.g. "Fundamentals" --&gt; "Fund4m3nt41s"</p>
