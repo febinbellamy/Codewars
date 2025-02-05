@@ -4,6 +4,6 @@ class Animal {
     this.type = type;
   }
   toString() {
-    return `${this.name} is a ${this.type}`
+    return this.name + " is a " + this.type;
   }
 }
