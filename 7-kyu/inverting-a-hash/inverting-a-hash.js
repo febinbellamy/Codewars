@@ -1,8 +1,8 @@
 function invertHash(hash) {
-  const result = {};
+  const output = {};
   for(let key in hash) {
     let value = hash[key];
-    result[value] = key;
+    output[value] = key;
   }
-  return result;
+  return output;
 }
