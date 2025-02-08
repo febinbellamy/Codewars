@@ -1,3 +1,3 @@
 function getSumOfDigits(integer) {
-  return integer.toString().split("").reduce((a,c) => +a + +c, 0);
+  return String(integer).split("").reduce((a,c) => Number(a) + Number(c), 0);
 }
