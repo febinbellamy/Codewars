@@ -1,4 +1,4 @@
-function uniqueSum(lst){
+const uniqueSum = (lst) => {
   //your magic code goes here
   if (lst.length === 0) return null;
   const uniques = {};
