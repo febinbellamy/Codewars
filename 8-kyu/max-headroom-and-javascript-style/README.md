@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/52a47dd7e950edabfa000391/train/javascript target="_blank">Max Headroom and JavaScript style</a></h2><h3>8 kyu</h3><p>Shouldn't the two functions <code>getMax1</code> and <code>getMax2</code> be equivalent and return the same value? Can you spot a problem and fix it? Can you learn something about JavaScript style in this kata?</p>
