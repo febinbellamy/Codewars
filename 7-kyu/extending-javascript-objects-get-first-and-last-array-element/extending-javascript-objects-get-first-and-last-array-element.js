@@ -1,7 +1,7 @@
 Array.prototype.first = function() {
-  return this ? this[0] : undefined;
+  return this[0];
 }
 ​
 Array.prototype.last = function() {
-  return this ? this[this.length - 1] : undefined;
+  return this[this.length - 1];
 }
