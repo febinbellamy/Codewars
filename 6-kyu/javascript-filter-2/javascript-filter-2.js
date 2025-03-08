@@ -1,4 +1,4 @@
-function roomMates( rooms, floor ){
+const roomMates = ( rooms, floor ) => {
   const result = [];
   let currentFloor = 1;
   for(let i = 0; i < rooms.length; i++) {
@@ -12,4 +12,3 @@ function roomMates( rooms, floor ){
   }
   return result.filter(occupant => occupant !== "");
 }
-​
