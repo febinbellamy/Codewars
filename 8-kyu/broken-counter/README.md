@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/526471539d52735c620000c6/train/javascript target="_blank">Broken Counter</a></h2><h3>8 kyu</h3><p>Our counter prototype is broken. Can you spot, what's wrong here?</p>
