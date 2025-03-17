@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/57a06005cf1fa5fbd5000216/train/javascript target="_blank">Words to sentence</a></h2><h3>7 kyu</h3><p>Write function which will create a string from a list of strings, separated by space.</p><p>Example:</p><p><code>["hello", "world"] -&gt; "hello world"</code></p>
