@@ -1,4 +1,4 @@
-const sexyName = (name) => {
+function sexyName(name) {
   const finalScore = name.toUpperCase().split('').map((letter) => letter in SCORES ? SCORES[letter] : 0).reduce((a,c) => a+c, 0);
   if (finalScore <= 60) {
     return "NOT TOO SEXY"
