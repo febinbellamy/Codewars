@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/55f1b763dd670651620000ce/train/python target="_blank">Counting Characters</a></h2><h3>8 kyu</h3><p>Define a method named <code>countCharOccurrences</code> or <code>count_char_occurrences</code> that accepts a string and a char as inputs and returns the number of times the char occurs in the string as an int.</p>
