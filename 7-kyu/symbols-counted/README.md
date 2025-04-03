@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/59ddeeb2fc3c49186f00009c/train/javascript target="_blank">Symbols counted </a></h2><h3>7 kyu</h3><p>In this kata you will have to transform each string so that it contains count for every symbol it contains, starting from 2.The order of symbols should be preserved.</p><p>Example: abbreviation =&gt; a2b2revi2ton</p>
