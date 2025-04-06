@@ -1,0 +1,1 @@
+const avg=a=>a.reduce((a,c)=>a+c,0)/a.length
