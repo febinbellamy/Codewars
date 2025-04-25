@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/594a9592704e4d21bc000131/train/sql target="_blank">SQL Basics: Mod</a></h2><h3>8 kyu</h3><p>Given the following table 'decimals':</p><p>** decimals table schema **</p><ul><li>id</li><li>number1</li><li>number2</li></ul><p>Return a table with one column (mod) which is the output of number1 modulus number2.</p>
