@@ -1,3 +1,1 @@
-SELECT * 
-FROM companies 
-ORDER BY employees desc;
+SELECT * FROM companies ORDER BY employees desc;
