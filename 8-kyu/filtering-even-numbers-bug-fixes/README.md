@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/566dc566f6ea9a14b500007b/train/python target="_blank">Filtering even numbers (Bug Fixes)</a></h2><h3>8 kyu</h3><p>The method is supposed to remove even numbers from the list and return a list that contains the odd numbers.</p><p>However, there is a bug in the method that needs to be resolved.</p>
