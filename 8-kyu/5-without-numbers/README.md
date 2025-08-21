@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript target="_blank">5 without numbers !!</a></h2><h3>8 kyu</h3><p>Write a function that always returns <code>5</code></p><p>Sounds easy right? Just bear in mind that you can't use any of the following characters: <code>0123456789*+-/</code></p><p>Good luck :)</p>
