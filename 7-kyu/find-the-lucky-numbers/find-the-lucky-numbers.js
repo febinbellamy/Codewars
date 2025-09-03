@@ -1,0 +1,1 @@
+const filterLucky = x => x.filter((digit) => String(digit).includes("7"));
