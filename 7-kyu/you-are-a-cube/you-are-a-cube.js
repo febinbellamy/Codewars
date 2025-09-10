@@ -1,0 +1,1 @@
+const youAreACube = value => Math.cbrt(value) === parseInt(Math.cbrt(value));
