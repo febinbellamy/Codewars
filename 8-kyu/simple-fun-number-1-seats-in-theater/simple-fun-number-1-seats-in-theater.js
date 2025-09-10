@@ -1,0 +1,1 @@
+const seatsInTheater = (nCols, nRows, col, row) => (nRows - row) * (nCols - col + 1);
