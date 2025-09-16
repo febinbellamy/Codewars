@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/5887a6fe0cfe64850800161c/train/javascript target="_blank">Largest Square Inside A Circle</a></h2><h3>7 kyu</h3><p>Determine the <strong>area</strong> of the largest square that can fit inside a circle with radius <em>r</em>.</p>
