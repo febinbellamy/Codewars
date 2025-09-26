@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/57a1d5ef7cb1f3db590002af/train/python target="_blank">Fibonacci</a></h2><h3>7 kyu</h3><p>Create function fib that returns n'th element of Fibonacci sequence (classic programming task).</p>
