@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/588e0f11b7b4a5b373000041/train/javascript target="_blank">Temperature analysis I</a></h2><h3>7 kyu</h3><p>You were given a string of integer temperature values, each separated by a space character.</p><p>Create a function that return its lowest value, or <code>None/null/Nothing</code> if the string is empty.</p>
