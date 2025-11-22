@@ -1,6 +1,4 @@
-function arrayConversion(arr) {
-  //coding and coding..
-  // replace each pair with their sum
+const arrayConversion = arr => {
   let currentArr = arr.slice(0);
   while(currentArr.length !== 1) {
     const sums = [];
